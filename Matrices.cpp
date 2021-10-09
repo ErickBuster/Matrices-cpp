@@ -1,4 +1,4 @@
-//Matrices -suma-resta-multiplicacion
+//Matrices - suma - resta - multiplicacion - determinante - transpuesta
 
 #include<iostream>
 using namespace std;
